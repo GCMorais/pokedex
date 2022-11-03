@@ -32,6 +32,7 @@ A ideia do projeto é construir uma Pokédex, uma enciclopédia digital onde for
     - GIT & GITHUB
     - Node e NPM
     - Requisições em API (PokéAPI)
+    - Vite
 
 
 ## 🚀 Feedback

@@ -9,9 +9,17 @@
   </head>
   <body>
     <section class="content"> 
-      <h1>Pokédex</h1>
+      <div class="image-box">
+        <img src="./public/Pokemon_logo.svg">
+        <h1>1st and 2nd Generation</h1>
+      </div>
       <ol id="pokemonList" class="pokemons">
       </ol>
+
+      <div class="pagination">
+        <button id="loadMoreBtn" type="button">Load More</button>
+      </div>
+
     </section>
     <script type="module" src="../components/main.js"></script>
     <script src="./components/pokeapi.js"></script>

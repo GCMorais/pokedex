@@ -21,6 +21,10 @@ Esse projeto faz parte do Bootcamp OrangeTech+ proposto pela DIO em parceria com
 
 <br>
 
+## 🔝 Preview
+
+![preview](./public/preview.png)
+
 ## 💻 Projeto
 
 A ideia do projeto é construir uma Pokédex, uma enciclopédia digital onde fornece informações sobre todos os pokémons do mundo fictício.
